@@ -1,0 +1,39 @@
+.words-span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin : 2px;
+}
+
+html,body{
+    margin: 0px;
+    padding : 0px;
+}
+
+#home{
+    margin-top: 200px;
+    width : 100%;
+}
+
+strong {
+    color: #333333;
+}
+a {
+    color: #483ec1;
+}
+.twitter{
+    color: #1c9deb;
+}
+.displayClass{
+    color: #666666;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    padding : 5px;
+    border-radius: 7px;
+    width : 90%;
+    outline: none;
+    border : 2px solid #333;
+    height : 25px;
+}
+.ioComp{
+    margin: 20px auto;
+    width: 64%;
+}
